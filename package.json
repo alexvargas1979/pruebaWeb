@@ -1,0 +1,18 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba web",
+  "main": "app.js",
+  "author": "alex vargas",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
